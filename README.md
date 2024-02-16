@@ -4,7 +4,7 @@
 - 👀 I’m interested in NET Core, WPF, Angular, Python, Web API Services and DDD.
 - 🌱 I’m currently learning Python, Azure and AWS
 - 💞️ I’m looking to collaborate on WPF, Web API projects and/or NET Core projects.
-- 📫 veperez@hotmail.com
+- 📫 vicente.perez.dev@outlook.com
 
 Browse [my code examples](https://github.com/ncc1701vepe/examples).
  
